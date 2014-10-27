@@ -5,7 +5,7 @@ DVIPS=dvips -Ppdf
 DVI2PS=dvips -t landscape -x 707
 PS2PDF=ps2pdf -dEmbedAllFonts#true
 
-MYSRC=statement
+MYSRC=problem-set
 
 #pdflatex prefered here over latex
 
